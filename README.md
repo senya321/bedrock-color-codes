@@ -1,5 +1,5 @@
 # bedrock-color-codes
-| Code| Color        | Code| Color        |
+| Code| Color        | Code| Style        |
 | ----|:------------ | ----|:-------------|
 | §1  |Dark blue     | §r  |Reset colors  |
 | §2  |Green         | §o  |Italic type   |
